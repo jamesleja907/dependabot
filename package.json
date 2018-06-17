@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hekto": "^0.2.3"
+    "hekto": "^0.2.4"
   }
 }
